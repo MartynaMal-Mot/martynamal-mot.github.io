@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: welcome to my page
+description: feel free to bookmark this to keep an eye on my project updates
+## Hello People! <3 
 
 You can use the [editor on GitHub](https://github.com/MartynaMal-Mot/martynamal-mot.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
